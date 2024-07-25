@@ -19,7 +19,7 @@
 
 ## 📫 Connect with Me
 
-[LinkedIn](your-linkedin-url) | [Twitter](your-twitter-url) | [Website](your-website-url)
+[LinkedIn](https://www.linkedin.com/in/anaiah-maddox-4a8026289/) 
 
 ## 🚀 Projects
 
@@ -29,4 +29,5 @@ Anaiahm/Anaiahm is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
+[Website](your-website-url)
 <!---
