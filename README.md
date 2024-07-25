@@ -1,6 +1,7 @@
 # Hey, I'm Anaiah 💻💖☕
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Aspiring+Software+Engineer;Sims+4+Lover;Matcha+Addict;Front-End+Enthusiast)](https://git.io/typing-svg)
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Anaiahm&show_icons=true&theme=ambient_gradient) 
 
 - 👀 I’m interested in Full Stack Development!
 - 🌱 I’m currently learning JavaScript, CSS, & HTML.
@@ -14,7 +15,7 @@
 - Tools: Git, VS Code
 - Platforms: GitHub
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Anaiahm&show_icons=true&theme=ambient_gradient) 
+
 
 
 
