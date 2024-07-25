@@ -1,4 +1,5 @@
-# 👋 Hey, I'm Anaiah 💞️
+# Hey, I'm Anaiah 💻💖☕
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Aspiring+Software+Engineer;Sims+4+Lover;Matcha+Addict;Front-End+Enthusiast)](https://git.io/typing-svg)
 
 - 👀 I’m interested in Full Stack Development!
 - 🌱 I’m currently learning JavaScript, CSS, & HTML.
