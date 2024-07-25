@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Anaiahm
+# 👋 Hey, I'm Anaiah 💞️
+
 - 👀 I’m interested in Full Stack Development!
 - 🌱 I’m currently learning JavaScript, CSS, & HTML.
 - 😄 Pronouns: She/Her.
@@ -19,7 +20,7 @@
 
 ## 📫 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/anaiah-maddox-4a8026289/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anaiah-maddox/)  | - 📫 [Email Address](mailto:anaiahmaddox@gmail.com)
 
 ## 🚀 Projects
 
