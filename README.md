@@ -23,7 +23,7 @@
 
 ## 🚀 Projects
 
-- [Are You Smarter Than Anaiah?](link) - A Quiz game loosely based on FOX's "Are you smarter than a fifth grader?", but based on Random things I know & love! 
+- [Are You Smarter Than Anaiah?](https://anaiahm.github.io/Are-You-Smarter-Than-Anaiah-Quiz-Game/) - A Quiz game loosely based on FOX's "Are you smarter than a fifth grader?", but based on Random things I know & love! 
 <!---
 Anaiahm/Anaiahm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
