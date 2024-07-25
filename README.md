@@ -5,6 +5,12 @@
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I love playing Sims 4 & I have a pet bunny named Dulce!
 
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anaiahm&show_icons=true&theme=radical)
+)
+
+
 - ## 🔧 Skills & Tools
 
 - Languages: JavaScript
@@ -12,19 +18,14 @@
 - Tools: Git, VS Code
 - Platforms: GitHub
 
-## 📈 GitHub Stats
+## 🚀 Projects
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anaiahm&show_icons=true&theme=radical)
-)
+- [Are You Smarter Than Anaiah?](https://anaiahm.github.io/Are-You-Smarter-Than-Anaiah-Quiz-Game/) - A Quiz game loosely based on FOX's "Are you smarter than a fifth grader?", but based on Random things I know & love!
 
-
-## 📫 Connect with Me
+- ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anaiah-maddox/)  | - 📫 [Email Address](mailto:anaiahmaddox@gmail.com)
 
-## 🚀 Projects
-
-- [Are You Smarter Than Anaiah?](https://anaiahm.github.io/Are-You-Smarter-Than-Anaiah-Quiz-Game/) - A Quiz game loosely based on FOX's "Are you smarter than a fifth grader?", but based on Random things I know & love! 
 <!---
 Anaiahm/Anaiahm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
