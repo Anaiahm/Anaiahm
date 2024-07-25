@@ -15,7 +15,7 @@
 - ## 🔧 Skills & Tools
 
 - Languages: JavaScript, HTML, CSS, Sarcasm
-- Frameworks & Libraries: Node.js
+- Frameworks & Libraries: Node.js, Express
 - Tools: Git, VS Code
 - Platforms: GitHub
 
