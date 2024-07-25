@@ -6,11 +6,6 @@
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I love playing Sims 4 & I have a pet bunny named Dulce!
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anaiahm&show_icons=true&theme=radical)
-)
-
 
 - ## 🔧 Skills & Tools
 
@@ -18,6 +13,14 @@
 - Frameworks & Libraries: 
 - Tools: Git, VS Code
 - Platforms: GitHub
+
+ <details>
+    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Anaiahm&show_icons=true&theme=radical) [![Top Language](https://readme-stats.Anaiahm.com/api/top-langs?username=Anaiahm&layout=compact)](https://github.com/Anaiahm/github-readme-stats)
+
+</details>
+
 
 ## 🚀 Projects
 
