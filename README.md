@@ -1,7 +1,7 @@
 # Hey, I'm Anaiah 💻💖☕
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Aspiring+Software+Engineer;Sims+4+Lover;Matcha+Addict;Front-End+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Aspiring+Software+Engineer+🌱;Sims+4+Lover+💖;Matcha+Addict+☕;Front-End+Enthusiast+💻)](https://git.io/typing-svg)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Anaiahm&show_icons=true&theme=ambient_gradient)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaiahm)](https://github.com/anaiahm/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Anaiahm&show_icons=true&theme=ambient_gradient)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaiahm&show_icons=true&theme=ambient_gradient)](https://github.com/anaiahm/github-readme-stats)
 
 ## 👑 About Me
 - 👀 I’m interested in Full Stack Development!
@@ -11,7 +11,7 @@
 
 - ## 🔧 Skills & Tools
 
-- Languages: JavaScript
+- Languages: JavaScript, HTML, CSS
 - Frameworks & Libraries: 
 - Tools: Git, VS Code
 - Platforms: GitHub
