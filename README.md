@@ -7,12 +7,15 @@
 - 👀 I’m interested in Full Stack Development!
 - 🌱 I’m currently learning JavaScript, CSS, & HTML.
 - 😄 Pronouns: She/Her.
-- ⚡ Fun fact: I love playing Sims 4 & I have a pet bunny named Dulce!
+- ⚡ Fun fact #1: I love playing Sims 4! 💚
+- ⚡ Fun fact #2: I HATE bugs 🐛
+, but I LOVE bugs 🔍 if you get what I mean.
+- ⚡ Fun fact #3:I have a pet bunny named Dulce! 🐰
 
 - ## 🔧 Skills & Tools
 
-- Languages: JavaScript, HTML, CSS
-- Frameworks & Libraries: 
+- Languages: JavaScript, HTML, CSS, Sarcasm
+- Frameworks & Libraries: Node.js
 - Tools: Git, VS Code
 - Platforms: GitHub
 
