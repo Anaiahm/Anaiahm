@@ -1,11 +1,11 @@
 # Hey, I'm Anaiah 💻💖☕
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Aspiring+Software+Engineer;Sims+4+Lover;Matcha+Addict;Front-End+Enthusiast)](https://git.io/typing-svg)
 
+
 - 👀 I’m interested in Full Stack Development!
 - 🌱 I’m currently learning JavaScript, CSS, & HTML.
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I love playing Sims 4 & I have a pet bunny named Dulce!
-
 
 - ## 🔧 Skills & Tools
 
@@ -14,12 +14,8 @@
 - Tools: Git, VS Code
 - Platforms: GitHub
 
- <details>
-    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Anaiahm&show_icons=true&theme=ambient_gradient) 
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=Anaiahm&show_icons=true&theme=radical) [![Top Language](https://readme-stats.Anaiahm.com/api/top-langs?username=Anaiahm&layout=compact)](https://github.com/Anaiahm/github-readme-stats)
-
-</details>
 
 
 ## 🚀 Projects
@@ -36,4 +32,14 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 [Website](your-website-url)
+
+ <details>
+    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Anaiahm&show_icons=true&theme=radical) 
+
+
+
+
+</details>
 <!---
