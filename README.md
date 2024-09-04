@@ -5,7 +5,7 @@
 
 ## 👑 About Me
 - 👀 I’m interested in Full Stack Development!
-- 🌱 I’m currently learning JavaScript, CSS, & HTML.
+- 🌱 I’m currently learning Python 🐍.
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact #1: I love playing Sims 4! 💚
 - ⚡ Fun fact #2: I HATE bugs 🐛
@@ -15,9 +15,9 @@
 - ## 🔧 Skills & Tools
 
 - Languages: JavaScript, HTML, CSS, Sarcasm
-- Frameworks & Libraries: Node.js, Express
+- Frameworks & Libraries: Node.js, Express, React
 - Tools: Git, VS Code
-- Platforms: GitHub
+- Platforms: GitHub, Heroku, Netlify
 
 
 
@@ -27,18 +27,18 @@
 
 - [Are You Smarter Than Anaiah?](https://anaiahm.github.io/Are-You-Smarter-Than-Anaiah-Quiz-Game/) - A Quiz game loosely based on FOX's "Are you smarter than a fifth grader?", but based on Random things I know & love!
 - [SweatScribe](https://sweat-scribe-3fc4d84a62af.herokuapp.com/) - An App designed to keep track of your workouts and water intake!
-- [Simspiration]([https://github.com/Anaiahm/Simstagram.git](https://simspiration.netlify.app/)) - A blog for simmers to share cheats, tips, and challenges!
+- [Simspiration](https://simspiration.netlify.app/)) - A blog for simmers to share cheats, tips, and challenges!
 
 - ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anaiah-maddox/)  | - 📫 [Email Address](mailto:anaiahmaddox@gmail.com)
 
+[AllAboutAnaiah](https://google.com)
 <!---
 Anaiahm/Anaiahm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
-[Website](your-website-url)
 
  <details>
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>
