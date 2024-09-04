@@ -27,7 +27,7 @@
 
 - [Are You Smarter Than Anaiah?](https://anaiahm.github.io/Are-You-Smarter-Than-Anaiah-Quiz-Game/) - A Quiz game loosely based on FOX's "Are you smarter than a fifth grader?", but based on Random things I know & love!
 - [SweatScribe](https://sweat-scribe-3fc4d84a62af.herokuapp.com/) - An App designed to keep track of your workouts and water intake!
-- [Simstagram](https://github.com/Anaiahm/Simstagram.git) - A blog for simmers to share cheats, tips, and challenges!
+- [Simspiration]([https://github.com/Anaiahm/Simstagram.git](https://simspiration.netlify.app/)) - A blog for simmers to share cheats, tips, and challenges!
 
 - ## 📫 Connect with Me
 
