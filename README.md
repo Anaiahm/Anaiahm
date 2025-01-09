@@ -31,7 +31,7 @@
 
 - ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anaiahm/)  | - 📫 [Email Address](mailto:amaddox.dev@gmail.com) | - 💻 [HeyAnaiah](https://heyanaiah.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anaiahm/)  |  📫 [Email](mailto:amaddox.dev@gmail.com) |  💻 [HeyAnaiah](https://heyanaiah.netlify.app)|  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC2ozWSsYFHH2tUWq0T3D1Rg)
 <!---
 Anaiahm/Anaiahm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
